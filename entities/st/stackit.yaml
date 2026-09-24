@@ -10,8 +10,8 @@ entity:
       valid_from: 2026-08-27T09:59:08.000Z
   category: hosting-infra
 profile:
-  summary: STACKIT is the European cloud of Schwarz Digits, offering infrastructure, platform, and software cloud services from its own data centers in Germany and Austria.
-  description: STACKIT is the cloud brand of Schwarz Digits, part of the Schwarz Group, providing IaaS, PaaS, SaaS, and colocation from its own data centers in Germany and Austria.
+  summary: STACKIT is the cloud brand of Schwarz Digits, offering IaaS, PaaS, SaaS, and colocation from its own data centers in Germany and Austria.
+  description: STACKIT is the cloud brand of Schwarz Digits, the IT and digital division of the Schwarz Group, with infrastructure run in its own data centers in Germany and Austria.
   links:
     site: https://stackit.com
 sources:
@@ -40,14 +40,13 @@ offers:
     economics:
       benefits:
         - benefit_id: ben_01
-          description: Cloud credits usable across the entire STACKIT service portfolio, awarded according to the stage and technical complexity of the startup's project; no fixed amount is published.
+          description: Cloud credits awarded based on the stage and technical complexity of the project, usable across the entire STACKIT service portfolio.
           kind: other
         - benefit_id: ben_02
           description: One-on-one coaching from STACKIT business development, AI, cybersecurity, and cloud experts, with CTO and CEO mentoring for selected startups, plus connections to investors.
           kind: other
       consideration:
-        kind: unknown
-        description: The startup program page does not state a fee for joining the program.
+        kind: none
     eligibility:
       rule:
         kind: all
